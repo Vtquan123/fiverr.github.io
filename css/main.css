@@ -2018,6 +2018,9 @@ body {
   .work .work__content .work__text h2 {
     font-size: 22px;
   }
+  .work .work__content .video__popup .video__modal .img-fluid {
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 600px) {

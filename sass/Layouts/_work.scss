@@ -26,6 +26,13 @@
           font-size: 22px;
         }
       }
+      .video__popup {
+        .video__modal {
+          .img-fluid {
+            width: 100%;
+          }
+        }
+      }
     }
   }
 }
