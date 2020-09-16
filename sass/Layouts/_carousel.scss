@@ -199,10 +199,12 @@
       padding-top: 24px;
       .carousel__form {
         .carousel__search {
-          width: 100%;
+          width: auto;
           max-width: 380px;
+          padding: 0 24px 60px;
+
           h1 {
-            font-size: 31px;
+            font-size: 30px;
           }
         }
       }
