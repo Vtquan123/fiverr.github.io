@@ -1748,11 +1748,12 @@ body {
     padding-top: 24px;
   }
   .my-carousel .my-carousel__content .carousel__form .carousel__search {
-    width: 100%;
+    width: auto;
     max-width: 380px;
+    padding: 0 24px 60px;
   }
   .my-carousel .my-carousel__content .carousel__form .carousel__search h1 {
-    font-size: 31px;
+    font-size: 30px;
   }
   .carousel__partners .carousel__partners-list .carousel__partners-logo.logo-none-padding {
     padding-right: 0;
