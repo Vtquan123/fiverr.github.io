@@ -1633,7 +1633,7 @@ body {
 }
 
 .my-carousel .my-carousel__content .carousel__slide .carousel-item {
-  width: 500px;
+  max-width: 500px;
 }
 
 .my-carousel .my-carousel__content .carousel__slide .carousel-caption {
